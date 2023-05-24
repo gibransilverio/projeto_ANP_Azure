@@ -1,0 +1,34 @@
+{  "DestinoDados2020_1" :{
+
+    "Continer"    : "projetodados",
+    "Diretorio"   : "raw/dados/2020/",
+    "NomeArquivo" : "1_sem_2020.csv"
+
+},
+
+"DestinoDados2020_2" :{
+
+    "Continer"    : "projetodados",
+    "Diretorio"   : "raw/dados/2020/",
+    "NomeArquivo" : "2_sem_2020.csv"
+
+},
+
+
+"DestinoDados2021_1" :{
+
+    "Continer"    : "projetodados",
+    "Diretorio"   : "raw/dados/2021/",
+    "NomeArquivo" : "1_sem_2021.csv"
+
+},
+
+"DestinoDados2021_2" :{
+
+    "Continer"    : "projetodados",
+    "Diretorio"   : "raw/dados/2021/",
+    "NomeArquivo" : "2_sem_2021.csv"
+
+}
+
+}
