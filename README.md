@@ -1,4 +1,4 @@
-# Script do projeto_ANP_Azure
+# Projeto_ANP_Azure
 
 - Projeto dos dados da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis do Brasil)
 - Dados da ANP de 2020 e 2021
